@@ -42,10 +42,9 @@
 
 
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrkapln&layout=compact&theme=vision-friendly-dark)](https://github.com/mrkapln/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/mrkapln/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrkapln&theme=dracula)](https://github.com/mrkapln/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 <!--
 **mrkapln/mrkapln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
