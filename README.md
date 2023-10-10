@@ -39,6 +39,11 @@
 </div>
 
 
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/mrkapln/github-readme-stats)
+
 <!--
 **mrkapln/mrkapln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
