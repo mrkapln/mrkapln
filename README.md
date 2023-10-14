@@ -7,7 +7,7 @@
 - 📫 How to reach me: mkaplan.odg.uak@gmail.com
 - ⚡ Fun fact:
 
- <div id="header" align="center">
+ <div id="header" align="left">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100"/>
 </div>
 
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
