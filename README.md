@@ -2,7 +2,7 @@
 
 
 - 🔭 Bachelor in Programming and System Architecture
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning information security.
 - 💬 Ask me about java, python, react and sql.
 - 📫 How to reach me: mkaplan.odg.uak@gmail.com
 - ⚡ Fun fact:
